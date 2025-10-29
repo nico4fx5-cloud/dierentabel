@@ -1,0 +1,105 @@
+header {
+	background-color: #66ccff;
+	height: 40px;
+	width: 600px;
+	text-align: center;
+}
+h1 {
+	color: #6600ff;
+}
+td#cel-1 {
+	background-color: #ffff99;
+	color: #ff9999;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-2 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-3 {
+	background-color: #ccffcc;
+	color: #336600;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-4 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-5 {
+	background-color: #ffcccc;
+	color: #ff33cc;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-6 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-7 {
+	background-color: #ccffff;
+	color: #9966ff;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-8 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-9 {
+	background-color: #ffcc99;
+	color: #ff0033;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-10 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-11 {
+	background-color: #ff99ff;
+	color: #ff00ff;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-12 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-13 {
+	background-color: #99ccff;
+	color: #003399;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+td#cel-14 {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+}
+td#cel-15 {
+	background-color: #99ffcc;
+	color: #006600;
+	text-align: center;
+	height: 100px;
+	width: 200px;
+}
+footer {
+	background-color: #66ccff;
+	height: 40px;
+	width: 600px;
+}
